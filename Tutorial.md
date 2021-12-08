@@ -73,4 +73,8 @@ Note: Remember to ensure that the player has the correct tag ("Player") for the 
 ## 5. Unity
 
 Within the Unity editor, create an object to place the script on, such as a cube. Then, add another box collider, make it a trigger and enlarge it around the cube, and then
-drag the cube's mesh renderer and box colliders into the appropriate boxes in the inspector.
+drag the cube mesh renderer and box colliders into the appropriate boxes in the inspector.
+
+![Screenshot 2021-12-08 175727](https://user-images.githubusercontent.com/72862464/145259476-6e7180dd-dee0-41f9-ae3b-4c3778b8e153.jpg)
+                                    
+Now simply run the game, move the player in and out of the trigger to see it work.
